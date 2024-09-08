@@ -1,0 +1,3 @@
+- https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+- https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
+- https://www.youtube.com/watch?v=vV12dGe_Fho
